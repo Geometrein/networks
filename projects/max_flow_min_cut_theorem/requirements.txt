@@ -1,0 +1,8 @@
+ipykernel==6.29.5
+jupyter==1.0.0
+networkx==3.3
+basemap==1.4.1
+pandas==2.2.2
+matplotlib==3.8.4
+
+
