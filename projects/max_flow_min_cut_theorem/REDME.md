@@ -6,7 +6,7 @@
 ## Introduction
 The article was initially published on medium this directory contains the code behind used for the article: 
 
-[![Medium](https://img.shields.io/badge/Medium_Article-0088CC?style=for-the-badge&logo=medium&logoColor=white)]()
+[![Medium](https://img.shields.io/badge/Medium_Article-0088CC?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@geometrein/how-the-cia-used-network-science-to-win-wars-d25177d612af)
 
 ### Sources
 - The data used for this projcet can be found in the `data` directory.
