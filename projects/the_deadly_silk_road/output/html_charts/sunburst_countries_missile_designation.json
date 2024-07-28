@@ -1,0 +1,2988 @@
+[
+  {
+    "name": "China",
+    "children": [
+      {
+        "name": "",
+        "value": 180.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 40.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 58.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1280.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 120.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 66.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 80.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 408.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 310.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 30.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 10.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 150.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 765.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2807.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 150.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 120.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 21.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 400.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 205.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 25.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 420.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1000.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1050.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1000.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 500.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 75.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 810.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1365.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 109.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 40.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 660.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 320.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 633.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1950.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1239.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 150.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 800.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 160.0,
+        "label": {
+          "fontSize": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "France",
+    "children": [
+      {
+        "name": "",
+        "value": 1750.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 106.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 350.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 500.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 951.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1860.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 74.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 25.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 166.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 857.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 600.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "MICA",
+        "value": 3746.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "MILAN",
+        "value": 4465.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 560.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Mistral SAM",
+        "value": 4408.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 72.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 138.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 536.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 10.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "Germany",
+    "children": [
+      {
+        "name": "",
+        "value": 8.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 90.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 548.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 294.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2795.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1404.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1600.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 362.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 653.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 150.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 310.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 379.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 120.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2244.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 92.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 30.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 453.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 500.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2700.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 310.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 255.0,
+        "label": {
+          "fontSize": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "Israel",
+    "children": [
+      {
+        "name": "",
+        "value": 388.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 331.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 40.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 115.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 75.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1445.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 312.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 20.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 75.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 900.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 150.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 200.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 173.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 650.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 300.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 500.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 106.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 60.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 64.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 125.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 789.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1875.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 400.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 360.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2215.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1855.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Spike-MR",
+        "value": 33426.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2133.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2250.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2400.0,
+        "label": {
+          "fontSize": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "Other",
+    "children": [
+      {
+        "name": "",
+        "value": 280.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 45.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 240.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 300.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 187.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 160.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 308.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 30.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 32.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 448.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 43.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 66.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 186.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 25.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 45.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 52.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 233.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 60.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 25.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 45.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 75.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2416.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 200.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 177.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 37.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 10.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 600.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Fagot",
+        "value": 3460.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1200.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 5.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 349.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 25.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 80.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 35.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 150.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 416.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 300.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 109.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 108.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 768.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1665.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 85.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 709.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 90.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 238.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 150.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 198.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 75.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 12.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 10.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 150.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 30.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 20.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1970.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 39.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 70.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 666.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1630.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 160.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 10.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 6.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 40.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 23.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 280.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 919.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 200.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 28.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 10.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 80.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 20.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 478.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 565.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 25.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1299.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 500.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 308.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 30.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 70.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 700.0,
+        "label": {
+          "fontSize": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "Russia",
+    "children": [
+      {
+        "name": "",
+        "value": 53.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 175.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "48N6",
+        "value": 3167.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 310.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "57E6",
+        "value": 4750.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 150.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 344.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "9M119 ",
+        "value": 25000.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2175.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1850.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2254.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 75.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 394.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 125.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 80.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 300.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 250.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Ataka",
+        "value": 3676.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2360.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 700.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 10.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2830.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2503.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Igla-S",
+        "value": 11104.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 790.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 290.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 482.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 125.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 485.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 125.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 10.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 200.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1300.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2945.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Konkurs",
+        "value": 31931.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Kornet",
+        "value": 26818.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2000.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 500.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Metis-M",
+        "value": 3800.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 40.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1090.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 40.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2230.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2825.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 360.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 825.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 200.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2500.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 122.0,
+        "label": {
+          "fontSize": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "South Africa",
+    "children": [
+      {
+        "name": "",
+        "value": 2420.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Sejeel",
+        "value": 4000.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 175.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 596.0,
+        "label": {
+          "fontSize": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "South Korea",
+    "children": [
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 42.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 31.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "CGR-080 239mm",
+        "value": 10000.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1000.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 210.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 500.0,
+        "label": {
+          "fontSize": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sweden",
+    "children": [
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 25.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "BONUS-2",
+        "value": 3141.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 200.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 200.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "NLAW",
+        "value": 29390.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 33.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 320.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 622.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1541.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "children": [
+      {
+        "name": "",
+        "value": 48.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 96.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 6.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 100.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 10.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1650.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 42.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "R-2",
+        "value": 6883.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 912.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2056.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 14.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 27.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 3.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 118.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 300.0,
+        "label": {
+          "fontSize": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "children": [
+      {
+        "name": "",
+        "value": 642.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 668.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2294.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1550.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1300.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 300.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 20.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 820.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 200.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 480.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 996.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "NLAW",
+        "value": 8900.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2800.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2150.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 50.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 271.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Starstreak",
+        "value": 3518.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 218.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 500.0,
+        "label": {
+          "fontSize": 12
+        }
+      }
+    ]
+  },
+  {
+    "name": "United States",
+    "children": [
+      {
+        "name": "AGM-114 Hellfire-2",
+        "value": 32182.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2910.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1639.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 398.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 395.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 80.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 200.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "AGM-179 JAGM",
+        "value": 3460.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "AGM-65",
+        "value": 3678.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 930.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1548.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 451.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1052.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 951.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "AIM-120C AMRAAM",
+        "value": 9550.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1127.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 825.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 460.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2383.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "AIM-9X",
+        "value": 4605.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 60.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "APKWS",
+        "value": 14256.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 30.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 700.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 730.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2673.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1000.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "ESSM",
+        "value": 3304.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 924.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Excalibur",
+        "value": 12820.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 300.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "GBU-39",
+        "value": 22040.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "GBU-53 StormBreaker",
+        "value": 4744.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "GMLRS",
+        "value": 55401.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 196.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1930.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "JDAM",
+        "value": 58673.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 250.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Javelin ATM",
+        "value": 30001.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "M-1156",
+        "value": 5002.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2607.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2870.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2805.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 925.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 598.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 13.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 312.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1365.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Paveway",
+        "value": 66428.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2300.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 110.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 0.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1211.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 511.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 331.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2002.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 36.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 90.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 70.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "Stinger",
+        "value": 7776.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 1000.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 552.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "TOW",
+        "value": 53585.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "TOW-2B",
+        "value": 16223.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 2000.0,
+        "label": {
+          "fontSize": 12
+        }
+      },
+      {
+        "name": "",
+        "value": 300.0,
+        "label": {
+          "fontSize": 12
+        }
+      }
+    ]
+  }
+]
