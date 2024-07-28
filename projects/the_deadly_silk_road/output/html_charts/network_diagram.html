@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ECharts Visualization</title>
+    <!-- Import ECharts.js -->
+    <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+</head>
+<body>
+    <div style="display: flex; justify-content: space-around;">
+        <div style="width: 48%;">
+            <h2>Missile Exports</h2>
+            <p>This chart visualizes the graph where the size of each node is determined by its out-degree.</p>
+            <div id="graph" style="width: 100%; height: 100vh;"></div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        function initializeChart(graph_data_json, chartDom, sizeKey) {
+            graph_data_json.nodes.forEach(function(node) {
+                node.symbolSize = node[sizeKey];
+                node.category = node.louvain_community;
+            });
+            graph_data_json.edges.forEach(function(edge) {
+                edge.lineStyle = {'width': edge.quantity};
+            });
+
+            let myChart = echarts.init(chartDom);
+            let option = {
+                tooltip: {},
+                legend: [{
+                    data: graph_data_json.categories.map(function(a) {
+                        return a.name;
+                    })
+                }],
+                series: [{
+                    name: 'Example Graph',
+                    type: 'graph',
+                    layout: 'force',
+                  	edgeSymbol:['circle','arrow'],
+					 edgeSymbolSize:[4,4],
+                    animation: true,
+                    data: graph_data_json.nodes,
+                    links: graph_data_json.edges,
+                    categories: graph_data_json.categories,
+                    force: {
+                        edgeLength: 1000,
+                        repulsion: 10000,
+                        gravity: 0.1
+                    },
+                    emphasis: {
+                        focus: 'adjacency',
+                        label: {
+                            position: 'right',
+                            show: true
+                        }
+                    },
+                    roam: true,
+                    draggable: true,
+                    label: {
+                        show: true,
+                        position: 'right',
+                        formatter: '{b}'
+                    },
+                    labelLayout: {
+                        hideOverlap: true
+                    },
+                    scaleLimit: {
+                        min: 0.1,
+                        max: 1
+                    },
+                    lineStyle: {
+                        color: 'source',
+                        curveness: 0.3
+                    },
+                }]
+            };
+
+            myChart.setOption(option);
+        }
+
+        // Fetch the JSON data from file
+        fetch('chord_diagram.json')
+            .then(response => response.json())
+            .then(graph_data_json => {
+                initializeChart(graph_data_json, document.getElementById('graph'), 'out_degree');
+            })
+            .catch(error => console.error('Error loading the JSON data:', error));
+    </script>
+</body>
+</html>
