@@ -1,4 +1,4 @@
-# Helsinki Delivery Network 
+# Wolt Delivery Network 
 
 ---
 ![Cover Image](images/orders_animation.gif) 
